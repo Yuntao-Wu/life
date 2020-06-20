@@ -1,2 +1,2 @@
 # life
-记录生活趣闻，旅行计划，小小的梦想
+record my trival. something intersting.
