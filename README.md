@@ -1,2 +1,2 @@
 # life
-record my trival. something intersting.
+记录生活点点滴滴
